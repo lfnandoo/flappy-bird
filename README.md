@@ -34,5 +34,5 @@ Criei esse mini-jogo para fixar o conteúdo do capitulo 13 do curso da COD3R "In
 
 ---
 
-Feito com 💜 por Luiz Fernando :wave: [Linkedin](https://www.linkedin.com/in/luizfernandoo/) & [Twitter](https://www.twitter.com/lfnandoo/)
+Feito com 💜 por Luiz Fernando :wave: [Linkedin](https://www.linkedin.com/in/luizfernandoo/)
 
